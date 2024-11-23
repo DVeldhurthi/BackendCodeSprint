@@ -1,0 +1,26 @@
+[{
+    "recipeId": 101,
+    "title": "Classic Pancakes",
+    "description": "A simple and delicious recipe for classic pancakes.",
+    "imagePath": "/images/pancakes.jpg",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "2 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "2 eggs",
+      "1 1/2 cups milk",
+      "1/4 cup melted butter",
+      "1 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "In a large bowl, mix the dry ingredients: flour, sugar, baking powder, and salt.",
+      "In a separate bowl, whisk together the eggs, milk, melted butter, and vanilla extract.",
+      "Pour the wet ingredients into the dry ingredients and mix until just combined. Do not overmix.",
+      "Heat a non-stick skillet over medium heat and lightly grease with butter or oil.",
+      "Pour 1/4 cup of batter onto the skillet and cook until bubbles form on the surface, about 2-3 minutes.",
+      "Flip the pancake and cook for another 1-2 minutes until golden brown.",
+      "Repeat with the remaining batter. Serve warm with syrup and toppings of your choice."
+    ],
+    "recipeType": "Breakfast"
+  }]
